@@ -1,0 +1,24 @@
+{
+  "name": "redditsherpa",
+  "version": "1.0.0",
+  "description": "Read reddit from the command line -- now with more node!",
+  "main": "redditsherpa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aelydens/node_sherpa.git"
+  },
+  "keywords": [
+    "reddit",
+    "command",
+    "line"
+  ],
+  "author": "Annie Lydens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelydens/node_sherpa/issues"
+  },
+  "homepage": "https://github.com/aelydens/node_sherpa"
+}
