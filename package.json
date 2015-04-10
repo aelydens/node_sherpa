@@ -2,7 +2,15 @@
   "name": "reddit_node",
   "version": "0.0.0",
   "description": "",
-  "author": "",
+  "author": "Annie Lydens",
+  "keywords": [
+    "reddit",
+    "command",
+    "line"
+  ],
+  "bugs": {
+    "url": "https://github.com/aelydens/node_sherpa/issues"
+  },
   "dependencies": {
     "superagent": "^1.1.0"
   }
