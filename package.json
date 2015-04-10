@@ -1,0 +1,9 @@
+{
+  "name": "reddit_node",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "dependencies": {
+    "superagent": "^1.1.0"
+  }
+}
